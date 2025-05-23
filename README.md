@@ -6,6 +6,12 @@ I'm a passionate Python developer with a knack for automation, image processing,
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PyMalama&layout=compact)
 
 
+## 🛠️ Skills & Tools
+
+- **Languages**: Python, Bash
+- **Libraries/Frameworks**: OpenCV, Pandas, PyTesseract
+- **Tools**: Git, Docker, VS Code
+- **Platforms**: Linux, Windows
 
 
 ## 🔧 Technologies & Tools
