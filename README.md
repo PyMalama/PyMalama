@@ -1,6 +1,12 @@
 # 👋 Hi there, I'm PyMalama!
 
 I'm a passionate Python developer with a knack for automation, image processing, and practical scripting. I enjoy solving real-world problems with code—whether it’s extracting data from PDFs or building tools to streamline business operations.
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=PyMalama.PyMalama)
+![PyMalama's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PyMalama&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PyMalama&layout=compact)
+
+
+
 
 ## 🔧 Technologies & Tools
 - 🐍 Python (OpenCV, Pandas, PyTesseract)
